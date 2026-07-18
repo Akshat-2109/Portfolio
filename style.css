@@ -520,3 +520,85 @@ body.dark-mode .feature-list li i {
 body.dark-mode .project-nav-footer {
   border-top-color: #333;
 }
+
+/* =====================
+   Model & Results Section
+   ===================== */
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 14px;
+  margin-top: 10px;
+}
+
+.stat-box {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 18px 12px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+}
+
+body.dark-mode .stat-box {
+  background-color: #1f1f1f;
+}
+
+.stat-value {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #0d6efd;
+}
+
+body.dark-mode .stat-value {
+  color: #6ea8fe;
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.8rem;
+  color: #6c757d;
+  margin-top: 4px;
+}
+
+body.dark-mode .stat-label {
+  color: #adb5bd;
+}
+
+.model-table {
+  margin-top: 14px;
+  font-size: 0.9rem;
+}
+
+.model-table th {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+body.dark-mode .model-table th {
+  background-color: #26344a;
+}
+
+body.dark-mode .model-table td {
+  color: #e9ecef;
+  border-color: #444;
+}
+
+.best-row td {
+  background-color: #d1e7ff;
+  font-weight: 600;
+}
+
+body.dark-mode .best-row td {
+  background-color: #1e3a5f;
+}
+
+.best-badge {
+  background-color: #198754;
+  color: #fff;
+  font-size: 0.7rem;
+  padding: 2px 8px;
+  border-radius: 20px;
+  margin-left: 6px;
+  font-weight: 600;
+}
