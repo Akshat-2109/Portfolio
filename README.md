@@ -2,7 +2,7 @@
 
 My personal portfolio website, rebuilt with a modern frontend stack to showcase my projects, skills, and certifications in Software Development and Data Science.
 
-🔗 **Live Site:** [Add your deployed link here]
+🔗 **Live Site:** https://portfolio-q81d.onrender.com
 
 ## Features
 
