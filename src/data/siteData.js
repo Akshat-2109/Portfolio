@@ -9,7 +9,7 @@ export const profile = {
   github: "https://github.com/Akshat-2109",
   instagram: "https://www.instagram.com/akshat.jain.2005",
   resumeUrl:
-    "https://drive.google.com/file/d/171WmBPa2e8RuAV3XU0iTVdm3R692fLDa/view?usp=drive_link",
+    "https://drive.google.com/file/d/1_7MjC7nLfSnPwG2zEuUdiOSZww3yyPBS/view?usp=drive_link",
   certificatesUrl:
     "https://drive.google.com/drive/folders/1r8TSJwqwfCJ3V-qY0VS_wsemsN3-DYem?usp=drive_link",
 };
