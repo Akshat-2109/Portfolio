@@ -1,3 +1,5 @@
+import { SiLeetcode } from "react-icons/si";
+
 export const profile = {
   name: "Akshat Jain",
   tagline: "Software Developer & Data Science Enthusiast",
@@ -7,6 +9,7 @@ export const profile = {
   phoneRaw: "+916398210770",
   linkedin: "https://www.linkedin.com/in/akshat-jain-b4b6bb291",
   github: "https://github.com/Akshat-2109",
+  Leetcode: "https://leetcode.com/u/Akshat_jain21",
   instagram: "https://www.instagram.com/akshat.jain.2005",
   resumeUrl:
     "https://drive.google.com/drive/folders/18JHOjFDASyATtlHVdOOF-_ZkYG9L7zM4?usp=drive_link",

@@ -61,6 +61,9 @@ export default function About() {
                 <a href={profile.linkedin} target="_blank" rel="noopener noreferrer" className="btn-outline !px-4 !py-2">
                   LinkedIn Profile
                 </a>
+                <a href={profile.Leetcode} target="_blank" rel="noopener noreferrer" className="btn-outline !px-4 !py-2">
+                  Leetcode Profile
+                </a>
                 <a href={profile.certificatesUrl} target="_blank" rel="noopener noreferrer" className="btn-outline !px-4 !py-2">
                   View Certificates
                 </a>
