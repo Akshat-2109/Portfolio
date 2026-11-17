@@ -190,6 +190,16 @@ export const certifications = [
     url: "https://drive.google.com/file/d/149v9PUqaEZNIxqLVjf0kEgjFqIyRiH-d/view?usp=drive_link",
   },
   {
+    title: "Web Development Internship",
+    issuer: "Vault of code",
+    url: "https://drive.google.com/file/d/1x_P0Gg-cKf2dcfoHHnPcmTrElxf6zCBF/view?usp=drive_link",
+  },
+  {
+    title: "Certified CyberSecurity Professional",
+    issuer: "Virtual Cyber Labs",
+    url: "https://drive.google.com/file/d/1cBe3_bdHeWReUxsTcqMARrysC74TWQYB/view?usp=drive_link",
+  },
+  {
     title: "Applied Data Science Using Python",
     issuer: "IBM",
     url: "https://drive.google.com/file/d/1o2VDpwSpkMz7V1o1vNWrX1kQfO-PJZCX/view?usp=drive_link",
@@ -210,9 +220,9 @@ export const certifications = [
     url: "https://drive.google.com/file/d/1OGqsiNkB15cRYWHJE2csKScXzge-voPR/view?usp=drive_link",
   },
   {
-    title: "Certified CyberSecurity Professional",
-    issuer: "Virtual Cyber Labs",
-    url: "https://drive.google.com/file/d/1cBe3_bdHeWReUxsTcqMARrysC74TWQYB/view?usp=drive_link",
+    title: "Data Analysis Using Python",
+    issuer: "IBM",
+    url: "https://drive.google.com/file/d/1P1JSJOMrXXoFypx8KGF6FUFVw0ieC8gV/view?usp=drive_link",
   },
 ];
 
