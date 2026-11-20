@@ -20,7 +20,7 @@ export const profile = {
 export const aboutParagraphs = [
   "I am Akshat Jain, a B.Tech Computer Science student at Gurugram University, specializing in Cyber Security, with a strong interest in Software Development and Full-Stack Engineering. Having qualified GATE 2026 in my first attempt during my third year, I have developed a solid foundation in core computer science concepts and problem-solving.",
 
-  "I have hands-on experience building full-stack web applications, machine learning projects, and data-driven solutions. I regularly practice Data Structures and Algorithms using C++, having solved over 100 problems to strengthen my programming fundamentals and logical thinking. As a four-time Class Representative, I have also developed strong communication, teamwork, and leadership skills.",
+  "I have hands-on experience building full-stack web applications, machine learning projects, and data-driven solutions. I regularly practice Data Structures and Algorithms using C++, having solved over 150 problems to strengthen my programming fundamentals and logical thinking. As a four-time Class Representative, I have also developed strong communication, teamwork, and leadership skills.",
 
   "My technical skills include C++, Python, Java, SQL, React, Node.js, Express.js, MongoDB, Flask, Pandas, and Scikit-learn. I enjoy building responsive user interfaces, developing backend APIs, integrating databases, and creating practical software solutions. I am eager to apply my skills, contribute to real-world projects, and grow as a Software Developer.",
 ];
