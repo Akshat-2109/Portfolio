@@ -186,8 +186,13 @@ export const certifications = [
   },
   {
     title: "MongoDB Certificate",
-    issuer: "MongoDB",
+    issuer: "SmartBridge",
     url: "https://drive.google.com/file/d/149v9PUqaEZNIxqLVjf0kEgjFqIyRiH-d/view?usp=drive_link",
+  },
+  {
+    title: "Certificate Program in MERN Stack",
+    issuer: "SSC NASSCOM",
+    url: "https://drive.google.com/file/d/1BmueQCk2wSXRyraWaCR1jbEXqYn1-OBn/view?usp=drive_link",
   },
   {
     title: "Web Development Internship",
