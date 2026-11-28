@@ -210,6 +210,11 @@ export const certifications = [
     url: "https://drive.google.com/file/d/1o2VDpwSpkMz7V1o1vNWrX1kQfO-PJZCX/view?usp=drive_link",
   },
   {
+    title: "Applied Data Science Using Python",
+    issuer: "IBM",
+    url: "https://drive.google.com/file/d/1Z3_e31gSOzE4EDnJyoZN4VAs6x8GnP7o/view?usp=drive_link",
+  },
+  {
     title: "Data Analytics Internship",
     issuer: "InAmigios Foundation",
     url: "https://drive.google.com/file/d/146ih2LD_JUpbyrWQJjoHK85m9Ix9VRaZ/view?usp=drive_link",
